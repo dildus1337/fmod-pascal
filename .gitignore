@@ -6,5 +6,7 @@
 *.compiled
 *.s
 *.lps
+ppas.sh
+link*.res
 backup/
 lib/
