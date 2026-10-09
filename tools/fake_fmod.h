@@ -1,0 +1,21 @@
+#define F_CALL
+#define F_API
+#define F_CALLBACK
+#define F_CDECL
+#define F_STDCALL
+#define F_EXPORT
+#define F_DECLSPEC
+#define F_DLLEXPORT
+#define FB_API
+#define FB_CALL
+#define FB_EXPORT
+#define __attribute__(x)
+#define __declspec(x)
+#define __cdecl
+#define __stdcall
+#define _cdecl
+#define _stdcall
+#define __pragma(x)
+#define __extension__
+#define __restrict
+#define __inline inline
